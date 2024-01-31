@@ -1,28 +1,16 @@
-- 👋 Hi, I’m @AnilSTurgut
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AnilSTurgut/AnilSTurgut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## Hi there. I'm Sam...👋
+## Hi there. I'm Anıl...👋
 
 
 - 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Python and AI for kids
 - 💬 I am happy to teach you what I know and eager to learn what you will offer  
 
 
 ## 👨👩 Social
 
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:steadysam32@gmail.com)
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an%C4%B1l-turgut-779a25289/)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@steadysam32)
-[![website](https://img.shields.io/badge/%20-kaggle-blue?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/kadirduran/account?isEditing=False)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KdrDrn" alt="KdrDrn" /> </p>
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:anilstturgut@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anıl-s-turgut)
+[![website](https://img.shields.io/badge/%20-kaggle-blue?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/anlsturgut)
 
 
 # 💻 Data Visualization 
@@ -30,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://tableau.github.io/webdataconnector/assets/logo.png" alt="Tableau" height="60"/> </a>
 
 
 # 💻 Python Libraries
@@ -44,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 # 💻 Languages
 
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="180"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" width="180"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" width="180"/> </a>
 <a href="#" target="_blank"> <img src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" width="180"/> </a>
 
 
@@ -62,3 +50,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api?username=KdrDrn&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KdrDrn&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KdrDrn&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
