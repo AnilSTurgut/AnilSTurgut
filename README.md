@@ -15,7 +15,7 @@
 
 # 💻 Data Visualization 
 
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://tableau.github.io/webdataconnector/assets/logo.png" alt="Tableau" height="60"/> </a>
@@ -25,7 +25,7 @@
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="120"/> </a>
-<a href="#" target="_blank"> <img src="/images/logo.svg" alt="SciPy" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 
 
