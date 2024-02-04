@@ -1,8 +1,8 @@
 ## Hi there. I'm Anıl...👋
 
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Python and AI for kids
+- 🔭 I’m currently working on Data Analysis and Machine Learning.
+- 🌱 I’m a Tutor about Python and AI for kids
 - 💬 I am happy to teach you what I know and eager to learn what you will offer  
 
 
