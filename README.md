@@ -6,7 +6,7 @@
 - 💬 I am happy to teach you what I know and eager to learn what you will offer  
 
 
-## 👨👩 Social
+## 👨Social
 
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:anilstturgut@gmail.com)
 [![website](https://img.shields.io/badge/%20-LINKEDIN-blue?&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/anıl-s-turgut)
