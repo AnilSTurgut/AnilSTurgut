@@ -25,7 +25,7 @@
 # 💻 Python Libraries
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://www.google.com/search?q=pandas+logo&rlz=1C1CHZN_trTR1076TR1076&oq=pandas+logo&gs_lcrp=EgZjaHJvbWUyDggAEEUYORhDGIAEGIoFMgwIARAAGEMYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEIMzE1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=rg9fF9C-sNyQeM&vssid=l" alt="Pandas" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 
