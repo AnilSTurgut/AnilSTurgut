@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Data Analysis and Machine Learning.
 - 🌱 I’m a Tutor about Python and AI for kids
-- 💬 I am happy to teach you what I know and eager to learn what you will offer  
+- 💬 I am happy to teach you what I know and eager to learn what you will offer.  
 
 
 ## 👨Social
@@ -17,8 +17,6 @@
 
 <a href="#" target="_blank"> <img src="https://tableau.github.io/webdataconnector/assets/logo.png" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
 
 
 
@@ -26,8 +24,7 @@
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="120"/> </a>
-<a href="#" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="50"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
 
 
 # 💻 Languages
