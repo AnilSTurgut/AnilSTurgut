@@ -32,7 +32,7 @@
 # 💻 Languages
 
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="180"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" width="180"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" width="90"/> </a>
 <a href="#" target="_blank"> <img src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" width="180"/> </a>
 
 
