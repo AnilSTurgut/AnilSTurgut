@@ -15,7 +15,7 @@
 
 # 💻 Data Visualization 
 
-<a href="#" target="_blank"> <img src="https://tableau.github.io/webdataconnector/assets/logo.png" alt="Tableau" height="60"/> </a>
+<a href="#" target="_blank"> <img src="[https://tableau.github.io/webdataconnector/assets/logo.png](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
