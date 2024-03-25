@@ -31,7 +31,7 @@
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" alt="MSSQL" width="90"/> </a>
-<a href="#" target="_blank"> <img src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" width="90"/> </a>
+<a href="#" target="_blank"> <img src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" width="110"/> </a>
 
 
 ## :gear: Tools
@@ -42,7 +42,7 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="35"/> </a>
 </p>
 
 
